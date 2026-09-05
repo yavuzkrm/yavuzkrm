@@ -1,9 +1,12 @@
 <p align="center">
   <a href="https://github.com/yavuzkrm">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Yavuz%20Kerem" alt="Hello! I&#39;m Yavuz Kerem" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=228B22&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Yavuz%20Kerem" alt="Hello! I&#39;m Yavuz Kerem" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=430&height=44&lines=Ctrl%2BC%20%26%20Ctrl%2BS%20enthusiast" alt="Typing headlines" />
+</p>
 
 ### 🚀 About Me
 
