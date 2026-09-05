@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=430&height=44&lines=Ctrl%2BC%20%26%20Ctrl%2BS%20enthusiast" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=430&height=44&lines=Ctrl%2BC%20%26%20Ctrl%2BS%20enthusiast" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -37,6 +37,7 @@ A computer engineering student who is keen to develop my skills, learn new thing
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yavuz-ata%C3%A7-210936334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/yavuzk.r.m"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:atackeremyavuz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
